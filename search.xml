@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/03/15/hello-world/"/>
+      <url>/2023/03/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start</h2><p>$$<br>\frac{1}{a_c}=\rho \times b^2<br>$$</p><p>$$<br>\begin{align}<br>D(x) &amp;= \int_{x_0} \nonumber \<br>&amp; \equiv y \nonumber<br>\end{align}<br>$$</p><p>$$<br>\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t<br>$$</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello world!&quot;</span>)</span><br></pre></td></tr></table></figure><h3 id="Create-a-new-post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> Android </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Virtual Machine Set-Up Intro</title>
+      <link href="/2023/03/15/VirMachine_setup_intro/"/>
+      <url>/2023/03/15/VirMachine_setup_intro/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1-Download-the-installation-packages">1. Download the installation packages</h2><ul><li><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">VMware Workstation 17 Pro</a><ul><li><em>VMware-workstation-full-17.0.0-20800274.exe</em></li></ul></li><li><a href="https://ubuntu.com/download/desktop/thank-you?version=22.04.1&amp;architecture=amd64">Ubuntu Desktop 22.04</a><ul><li><em>ubuntu-22.04.1-desktop-amd64.iso</em></li></ul></li></ul><h2 id="2-Install-VMware-on-windows">2. Install VMware on windows</h2><img src="vm_hyperv.png" alt="Hyper-V" style="zoom:70%;" /><img src="vm_path.png" alt="vm_path" style="zoom:70%;" /><p><strong>License Keys</strong></p><ul><li><em>MC60H-DWHD5-H80U9-6V85M-8280D</em> (Available)</li><li><em>JU090-6039P-08409-8J0QH-2YR7F</em> (Maybe)</li><li><em>4Y09U-AJK97-089Z0-A3054-83KLA</em> (Maybe)</li></ul><p><strong>Restart</strong></p><img src="vm_platform.png" alt="vm_platform" style="zoom:45%;" /><h2 id="3-Install-Ubuntu-and-create-Linux-VM">3. Install Ubuntu and create Linux VM</h2><img src="new_custom.png" alt="new_custom" style="zoom:85%;" /><img src="new_compatibility.png" alt="new_compatibility" style="zoom:85%;" /><img src="new_os.png" alt="new_os" style="zoom:85%;" /><img src="new_ubuntu.png" alt="new-ubuntu" style="zoom:85%;" /><img src="new_filepath.png" alt="new_filepath" style="zoom:85%;" /><img src="new_processor.png" alt="new_processor" style="zoom:85%;" /><blockquote><p>根据自己的电脑配置选择，我电脑是12核16个CPU</p></blockquote><ul><li>接下来中间4步选择默认推荐即可（此处跳过，到下面设置）</li></ul><img src="new_disk.png" alt="new_disk" style="zoom:85%;" /><img src="new_dcapacity.png" alt="new_dcapacity" style="zoom:85%;" /><blockquote><p>根据电脑磁盘大小分配合适内存，建议适当大一点 &gt;=40G。</p></blockquote><img src="new_creating.png" alt="new_creating" style="zoom:85%;" /><img src="new_hardware.png" alt="new_hardware" style="zoom:60%;" /><blockquote><p>选择步骤1下载的Ubuntu操作系统ISO文件，然后关闭点击 finish</p></blockquote><h2 id="4-Start-Ubuntu-VM">4. Start Ubuntu VM</h2><ul><li>创建Ubuntu虚拟机成功后启动，<strong>会黑屏一段时间，耐心等待。</strong></li></ul><blockquote><p>在此过程中如果出现各种报错，可以尝试关闭VM workstation重启虚拟机系统，如果还不能解决，建议删除第三步生成的虚拟机，重新生成。</p></blockquote><img src="ubuntu_start.png" alt="ubuntu_start" style="zoom:71%;" /><img src="ubuntu_set.png" alt="ubuntu_setting" style="zoom:26.6%;" /><img src="ubuntu_chinese.png" alt="ubuntu_chinese" style="zoom:40%;" /><ul><li>剩余步骤默认，最后设置用户名和密码，确认后将自动安装系统。</li></ul><img src="ubuntu_ing.png" alt="ubuntu_ing" style="zoom:66%;" /><ul><li>！最后就成功了！</li></ul><img src="ubuntu_success.png" alt="ubuntu_success" style="zoom:48%;" /><h2 id="5-Install-VMware-tools">5. Install VMware tools</h2><blockquote><p>实现主客机之间的复制粘贴功能</p></blockquote><img src="vmtools_file2.png" alt="vmtools_file2" style="zoom:58%;" /><blockquote><p>Open in Terminal</p><p><code>sudo ./vmware-install.pl</code></p></blockquote><img src="vmtools_sudo.png" alt="vmtools_sudo" style="zoom:56%;" /><p>​详情可参阅：<a href="https://blog.csdn.net/davidhzq/article/details/101621482">Vmware虚拟机和主机之间复制粘贴</a></p><ul><li>安装完成后可以实现文件拖拽和ctrl+c、v，复制到Terminal中使用快捷键<code>ctrl+shift+v</code></li></ul><p>==FINAL==</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
