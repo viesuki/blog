@@ -129,7 +129,7 @@
   }
 
   /* 除了首页以外其他页面隐藏卡片，并采用宽屏显示 */
-#archive,
+/* #archive,
 #page,
 #category,
 #tag {
@@ -137,7 +137,7 @@
 }
 .page:not(.page.home) .aside-content {
   display: none;
-}
+} */
 .post .card-recent-post {
     display: none;
 }
