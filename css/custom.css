@@ -1,5 +1,5 @@
 :root {
-    --trans-light: rgba(255, 255, 255, 0.9);
+    --trans-light: rgba(255, 255, 255, 0.95);
     --trans-dark: rgba(25, 25, 25, 0.9);
     --border-style: 1px rgb(169, 169, 169);
     --backdrop-filter: blur(5px) saturate(150%);
@@ -33,7 +33,7 @@
   
   /* 导航栏 */
   #page-header.nav-fixed #nav {
-    background: rgba(255, 255, 255, 0.9); /*rgba(255, 255, 255, 0.75);*/
+    background: rgba(255, 255, 255, 0.95); /*rgba(255, 255, 255, 0.75);*/
     backdrop-filter: var(--backdrop-filter);
     border-radius: 4px;
   }
@@ -236,4 +236,18 @@
   border-top-color: #444;
   left: 50%;
   transform: translate(-50%, -48px);
+}
+
+
+#article-container img {
+  min-width: 60% !important;
+  max-width: 80% !important;
+}
+
+.toggle > .toggle-button {
+  background: rgb(86, 84, 162, 0.15) !important;
+}
+
+[data-theme="dark"] .toggle > .toggle-button {
+  color: #f0f0f0 !important;
 }
