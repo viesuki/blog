@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://viesuki.github.io/posts/6f9c2c26.html</loc>
+    
+    <lastmod>2023-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://viesuki.github.io/posts/5d58106c.html</loc>
     
     <lastmod>2023-03-26</lastmod>
@@ -91,6 +100,13 @@
   
   <url>
     <loc>http://viesuki.github.io/tags/butterfly/</loc>
+    <lastmod>2023-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://viesuki.github.io/tags/vpn/</loc>
     <lastmod>2023-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

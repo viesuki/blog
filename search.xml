@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>科学上网交流学习</title>
+      <link href="/posts/6f9c2c26.html"/>
+      <url>/posts/6f9c2c26.html</url>
+      
+        <content type="html"><![CDATA[<div class="note danger modern"><p><strong>声明</strong></p><ul><li>本文仅供学习交流使用</li><li>切勿从事违法犯罪行为</li><li>遵纪守法，做优秀公民</li><li>否则后果自负</li></ul></div><h2 id="科学上网类别">科学上网类别</h2><p>一般来讲有多种办法：最直接的就是“肉身出墙”，推荐游泳（www）；还有就是使用VPN或者机场节点订阅链接以及一些浏览器等等</p><ol><li>VPN（虚拟专用网络）：VPN是一种可用于隐藏您的IP地址并将互联网连接从您的设备转发到另一个服务器的加密隧道</li><li>机场节点（代理服务器）：允许通过第三方服务器访问互联网。许多代理服务器也被封锁，但仍有一些可供使用。但是，使用代理服务器时需要注意安全性问题，因为代理服务器可以窃取个人信息</li><li><a href="https://www.torproject.org">Tor浏览器</a>：Tor浏览器可以帮助匿名浏览互联网。这是通过将用户的互联网连接随机路由到全球各地的服务器上来实现的。Tor浏览器是免费的，但是由于它的匿名性和安全性，可能会比较慢</li></ol><details class="toggle" ><summary class="toggle-button" style="">VPN和机场节点区别</summary><div class="toggle-content"><p>VPN是一种通过加密和隧道技术将用户的网络连接从本地设备传输到另一台服务器上的安全连接方式。VPN可以帮助用户隐藏IP地址、保护隐私、绕过地理限制等。</p><p>机场节点（也称为SSR/V2Ray节点）则是一个代理服务器，用户可以通过这个服务器来访问被封锁的网站、加速网络连接、保护隐私等。机场节点的原理是通过中间人攻击，将用户的请求转发到代理服务器上，再将代理服务器返回的数据转发回用户。机场节点通常需要用户付费才能使用，用户可以从机场节点提供商处购买节点。</p><p>虽然VPN和机场节点都可以帮助用户访问被封锁的网站、保护隐私等，但它们的实现原理和功能有所不同。VPN主要是建立一条加密的通道，可以让用户通过互联网连接到其他地区的服务器，从而实现网络加密、绕过地理限制等功能。而机场节点则是提供代理服务的服务器，用户可以通过代理服务器访问被封锁的网站、加速网络连接等。</p></div></details><div class="note info simple"><p>以下内容均非广告</p></div><h2 id="VPN服务">VPN服务</h2><ol><li><a href="https://www.expressvpn.com/home">ExpressVPN</a>：总部位于英属维京群岛的VPN服务提供商，已经成为业内的知名品牌。他们提供了可靠的加密和快速的连接速度，同时在安全性和隐私保护方面做得非常好。应该是最知名的了。</li><li><a href="https://nordvpn.com/zh/">NordVPN</a>：总部位于巴拿马的VPN服务提供商，也是一家知名品牌。他们提供了高水平的加密和安全功能，同时也具有许多其他功能，如双重VPN、Onion over VPN等。</li><li><a href="https://strongvpn.com">StrongVPN</a>：成立于1995年的VPN服务提供商，总部位于美国。他们提供了全球高品质的VPN服务，并在业内树立了良好的口碑和声誉。它支持多种设备、无线带宽、具有全球服务器。</li><li><a href="https://surfshark.com/zh/">Surfshark</a>：这新兴的VPN服务提供商，总部位于英属维京群岛。他们提供了许多优秀的功能，如不限设备数、无限制的带宽、全球服务器分布等。</li><li><a href="https://www.purevpn.com">PureVPN</a>：总部位于香港的VPN服务提供商，他们提供了超过2000个服务器、256位加密、防火墙保护、无限带宽等功能。他们的服务价格合理，同时提供了全球24/7的客户支持。</li></ol><h2 id="机场订阅">机场订阅</h2><ol><li><p>最萌の云</p><ul><li>有体验套餐，在使用之前可以自己先试试</li><li>不同的套餐会有额外不同的特权，比如共享apple ID和Netflix账号等</li><li>节点比较多，官网有各种平台使用教程</li><li>他们自己还搞了chatgpt体验网站，可以用下试试玩<br>推荐指数：⭐⭐⭐ <a href="https://www.cutecloud.net/auth/register?code=lnPy">点我进入官网</a></li></ul></li><li><p>ViRay(Beta)</p><ul><li>提供体验套餐，节点数量和质量还行</li><li>支持两种收费模式：按月收费和按量收费（我觉得很好）</li><li>虽然好像是香港的，但是支付依然方便<br>推荐指数：⭐⭐⭐ <a href="https://www.viraywinter.com/airfield/price">点我进入官网</a><br>邀请码：<span class="hide-inline"><button type="button" class="hide-button" style="background-color: #FF7242;color: #fff">不要点我  </button><span class="hide-content">NPQA2I</span></span></li></ul></li><li><p>青森云</p><ul><li>和 最萌の云 差不多，UI都相似</li><li>套餐稍有不同，共享账号内容没有最萌の云多</li><li>可以体验<br>推荐指数：⭐⭐ <a href="https://cccc.gg/auth/register?code=u3rV">点我进入官网</a></li></ul></li><li><details>  <summary>需要密码才能查看的内容</summary>  <div id="password-protected-content" style="display: none;">    <p>感谢无私的PKU兄弟，<a target="_blank" href="https://pkuhistory.fandom.com/zh/wiki/WallessPKU">点我试试</a></p>    <p>推荐指数：⭐⭐⭐</p>  </div>  <div id="password-input-form">    <label for="password">提示：我们和隔壁(low alphabets)：</label>    <input type="password" id="password" name="password">    <button type="button" onclick="checkPassword()">提交</button>  </div></details></li></ol><script>function checkPassword() {  var password = document.getElementById("password").value;  if (password == "thupku") {    document.getElementById("password-input-form").style.display = "none";    document.getElementById("password-protected-content").style.display = "block";    document.querySelector("details").setAttribute("open", "open");  } else {    alert("密码不正确，请重新输入。");  }}</script>]]></content>
+      
+      
+      <categories>
+          
+          <category> web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> vpn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>从零开始建立一个Blog网站</title>
       <link href="/posts/5d58106c.html"/>
       <url>/posts/5d58106c.html</url>
