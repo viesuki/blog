@@ -265,6 +265,7 @@
 }
 
 
+
 [data-theme="dark"] .toggle > .toggle-button {
   color: #f0f0f0 !important;
 }
@@ -286,3 +287,54 @@
   background-color: rgba(0,0,0,.3) !important;
   content: '' !important;
 }
+
+
+/* 修改音频播放器的外观 */
+audio {
+  width: 60%; /* 设置音频播放器宽度为60% */
+  margin: 0 auto; /* 居中对齐 */
+  background-color: #f4f4f4; /* 设置背景色 */
+  border: none; /* 去除边框 */
+  border-radius: 10px; /* 圆角边框 */
+  box-shadow: 0 0 10px rgba(0, 196, 182, 0.3); /* 添加阴影效果 */
+}
+
+/* 修改播放按钮的颜色和样式 */
+audio::-webkit-media-controls-play-button {
+  background-color: #00c4b6; /* 修改播放按钮的背景色 */
+  color: white; /* 修改播放按钮的文本颜色 */
+  border: none; /* 去除按钮边框 */
+  border-radius: 50%; /* 将按钮变成圆形 */
+  width: 30px; /* 调整按钮宽度 */
+  height: 30px; /* 调整按钮高度 */
+  font-size: 20px; /* 调整按钮图标大小 */
+}
+
+/* 修改进度条的颜色 */
+audio::-webkit-media-controls-progress-bar {
+  background-color: #00c4b6; /* 修改进度条的背景色为主题色 */
+}
+
+/* 修改已播放进度条的颜色 */
+audio::-webkit-media-controls-current-time-display {
+  color: #00c4b6!important; /* 修改已播放部分的文本颜色为主题色 */
+}
+
+/* 修改音量控制条的颜色 */
+audio::-webkit-media-controls-volume-slider {
+  /* width: 100%; 将音量控制条宽度设置为100% */
+  /* background-color: #f4f4f4; 修改音量控制条的背景色 */
+  border-radius: 5px; /* 圆角边框 */
+}
+
+/* 修改音量控制滑块的颜色 */
+audio::-webkit-media-controls-mute-button {
+  background-color: #00c4b6; /* 修改静音按钮的背景色为主题色 */
+  /* color: white; 修改静音按钮的文本颜色 */
+  border-radius: 50%; /* 设置为圆形 */
+  width: 30px; /* 调整按钮宽度 */
+  height: 30px; /* 调整按钮高度 */
+  font-size: 20px; /* 调整按钮图标大小 */
+}
+
+
