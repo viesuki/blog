@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/b632a8a4.html</loc>
+    <loc>http://blog.viesuki.cc/posts/b632a8a4.html</loc>
     
     <lastmod>2023-09-24</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/link/index.html</loc>
+    <loc>http://blog.viesuki.cc/link/index.html</loc>
     
     <lastmod>2023-09-23</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/b9539214.html</loc>
+    <loc>http://blog.viesuki.cc/posts/b9539214.html</loc>
     
     <lastmod>2023-09-23</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/2dfc8286.html</loc>
+    <loc>http://blog.viesuki.cc/posts/2dfc8286.html</loc>
     
     <lastmod>2023-08-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/fdfbe8a3.html</loc>
+    <loc>http://blog.viesuki.cc/posts/fdfbe8a3.html</loc>
     
     <lastmod>2023-08-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/5d58106c.html</loc>
+    <loc>http://blog.viesuki.cc/posts/5d58106c.html</loc>
     
     <lastmod>2023-08-15</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/stars/index.html</loc>
+    <loc>http://blog.viesuki.cc/stars/index.html</loc>
     
     <lastmod>2023-05-29</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/about/index.html</loc>
+    <loc>http://blog.viesuki.cc/about/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/categories/index.html</loc>
+    <loc>http://blog.viesuki.cc/categories/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/index.html</loc>
+    <loc>http://blog.viesuki.cc/tags/index.html</loc>
     
     <lastmod>2023-03-15</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/posts/a465fc49.html</loc>
+    <loc>http://blog.viesuki.cc/posts/a465fc49.html</loc>
     
     <lastmod>2023-03-14</lastmod>
     
@@ -102,7 +102,7 @@
   
 
   <url>
-    <loc>http://blog23.viesuki.cc/</loc>
+    <loc>http://blog.viesuki.cc/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -110,42 +110,42 @@
 
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/python/</loc>
+    <loc>http://blog.viesuki.cc/tags/python/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/AI/</loc>
+    <loc>http://blog.viesuki.cc/tags/AI/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/ubuntu/</loc>
+    <loc>http://blog.viesuki.cc/tags/hexo/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/vpn/</loc>
+    <loc>http://blog.viesuki.cc/tags/butterfly/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/hexo/</loc>
+    <loc>http://blog.viesuki.cc/tags/vpn/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/tags/butterfly/</loc>
+    <loc>http://blog.viesuki.cc/tags/ubuntu/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -154,28 +154,28 @@
 
   
   <url>
-    <loc>http://blog23.viesuki.cc/categories/random-study/</loc>
+    <loc>http://blog.viesuki.cc/categories/random-study/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/categories/windows/</loc>
+    <loc>http://blog.viesuki.cc/categories/web/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/categories/CS/</loc>
+    <loc>http://blog.viesuki.cc/categories/CS/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://blog23.viesuki.cc/categories/web/</loc>
+    <loc>http://blog.viesuki.cc/categories/windows/</loc>
     <lastmod>2025-01-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
