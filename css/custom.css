@@ -169,6 +169,9 @@
   .menus_items .menus_item:nth-child(2) .menus_item_child {
     left: -80px;
   }
+  .menus_items .menus_item:nth-child(3) .menus_item_child {
+    left: -80px;
+  }
 
 .post-copyright {
     border-radius: 6px;
